@@ -1,0 +1,8 @@
+    /* Estilos adicionais para o layout do blog */
+    .post {
+        margin-bottom: 20px;
+    }
+
+    .post .actions {
+        margin-top: 10px;
+    }
